@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on building ML Models
+- 🌱 I’m currently learning about Algorithms, Data Pipelines
+- 👯 I’m looking to collaborate on Hackathons, innovative projects
+- 📫 How to reach me: LinkedIN, Email
+  
 <!--
 **ZarifTashdeed/zariftashdeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
