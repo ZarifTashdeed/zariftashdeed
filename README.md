@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, there! 👋
 
 My name is Zarif Tashdeed, an undergraduate Business Administration student at Bangladesh University of Professionals (BUP), self-driven learner in Data Science, Machine Learning, and AI, with hands-on projects in Python, data visualization, and statistical analysis.
 
